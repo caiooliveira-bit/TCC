@@ -507,5 +507,4 @@ source .venv/bin/activate
 → Esperado quando $\kappa(A)$ é grande. O quadrado do número de condição ($\kappa(A^TA) = \kappa(A)^2$) amplifica o erro de arredondamento nas equações normais. Para graus polinomiais altos nas séries WIOD, use sempre a versão QR.
 
 ---
-ENDOFFILE
-Concluído
+
