@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 # Modelo Insumo-Produto de Leontief — Implementação Numérica em Python
 
 Estudo do Modelo Insumo-Produto de Wassily Leontief com fundamento em Álgebra Linear e Análise Numérica, implementado em Python com dados reais do IBGE (2015) e da WIOD (2016).
